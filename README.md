@@ -1,7 +1,7 @@
 !-- Meu Nome -->
 <!--<h1 align="center" >Olá! Eu sou o Marco! 👋</h1>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sf+Pro+Display+semibold&weight=900&size=40&pause=1000&color=FFFFFF&width=600&height=60&lines=Ol%C3%A1!+Eu+sou+o+Marco+Dalmagro!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sf+Pro+Display+semibold&weight=900&size=40&pause=1000&color=FFFFFF&width=600&height=60&lines=Ol%C3%A1!+Eu+sou+o+Marco!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Banner do Mario Programando -->
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
