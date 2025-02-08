@@ -108,4 +108,4 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
 
 <!-- Agradecimento ou Mensagem -->
-<p align="center">Feito com 💜 <strong>Marco Dalmagro :wave: </p>
+<p align="center">Feito com 💜 <strong>Marco Dalmagro </p>
