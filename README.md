@@ -100,7 +100,8 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 ##
 
   <!-- Animação da Cobra comendo os Commits -->
-![Snake animation](https://raw.githubusercontent.com/[SEU-USUÁRIO]/[SEU-REPOSITÓRIO]/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/[SEU-USUÁRIO]/[SEU-REPOSITÓRIO]/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/marcodalmagro/snk/output/github-contribution-grid-snake-dark.svg
+)
 
 
 
